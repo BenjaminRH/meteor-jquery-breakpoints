@@ -5,4 +5,4 @@
 ###How to use?
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt add jquery-blockui`
+2. `mrt add jquery-breakpoints`
