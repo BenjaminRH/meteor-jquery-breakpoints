@@ -1,0 +1,9 @@
+{
+	"name": "jquery-breakpoints",
+	"description": "jQuery Breakpoints packaged for Meteor.",
+	"homepage": "https://github.com/BenjaminRH/meteor-jquery-breakpoints",
+	"author": "Benjamin Harris  (http://benjaminrharris.com)",
+	"version": "0.1.0",
+	"git": "https://github.com/BenjaminRH/meteor-jquery-breakpoints.git",
+	"packages": {}
+}
